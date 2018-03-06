@@ -1,0 +1,29 @@
+C:\Users\Korisnik\Desktop\DCT\DCT\bin\Debug\DCT.exe
+C:\Users\Korisnik\Desktop\DCT\DCT\bin\Debug\DCT.pdb
+C:\Users\Korisnik\Desktop\DCT\DCT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Korisnik\Desktop\DCT\DCT\obj\x86\Debug\DCT.Form1.resources
+C:\Users\Korisnik\Desktop\DCT\DCT\obj\x86\Debug\DCT.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\DCT\DCT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Korisnik\Desktop\DCT\DCT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Korisnik\Desktop\DCT\DCT\obj\x86\Debug\DCT.exe
+C:\Users\Korisnik\Desktop\DCT\DCT\obj\x86\Debug\DCT.pdb
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\obj\x86\Debug\DCT.exe
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\obj\x86\Debug\DCT.pdb
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\bin\Debug\DCT.exe
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\bin\Debug\DCT.pdb
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\obj\x86\Debug\DCT.Form1.resources
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\obj\x86\Debug\DCT.Properties.Resources.resources
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FERI\5. semester\Multimedia\Vaje\DCT\DCT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FERI\5. semester\Multimedia\Vaje\DCT - oddano\DCT\obj\x86\Debug\DCT.exe
+D:\FERI\5. semester\Multimedia\Vaje\DCT - oddano\DCT\obj\x86\Debug\DCT.pdb
+E:\For Github\Multimedia\DCT - oddano\DCT\bin\Debug\DCT.exe
+E:\For Github\Multimedia\DCT - oddano\DCT\bin\Debug\DCT.pdb
+E:\For Github\Multimedia\DCT - oddano\DCT\obj\x86\Debug\DCT.csprojResolveAssemblyReference.cache
+E:\For Github\Multimedia\DCT - oddano\DCT\obj\x86\Debug\DCT.Form1.resources
+E:\For Github\Multimedia\DCT - oddano\DCT\obj\x86\Debug\DCT.Properties.Resources.resources
+E:\For Github\Multimedia\DCT - oddano\DCT\obj\x86\Debug\DCT.csproj.GenerateResource.Cache
+E:\For Github\Multimedia\DCT - oddano\DCT\obj\x86\Debug\DCT.csproj.CoreCompileInputs.cache
+E:\For Github\Multimedia\DCT - oddano\DCT\obj\x86\Debug\DCT.exe
+E:\For Github\Multimedia\DCT - oddano\DCT\obj\x86\Debug\DCT.pdb
